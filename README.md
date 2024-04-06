@@ -1,6 +1,6 @@
 **About Me**
 
-My name is Ting Pan. I am currently pursuing a Master's degree in Data Science, complemented by a rich foundation in Economics, Finance, and Law. My keen interest lies in utilizing data science to address tangible real-world challenges.
+I am Ting Pan, a Data Scientist with a strong background in Economics, Finance, and Law. 
 
 **Project Objective**
 
