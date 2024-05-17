@@ -1,6 +1,3 @@
-**About Me**
-
-I am Ting Pan, a Data Scientist with a strong background in Economics, Finance, and Law. 
 
 **Project Objective**
 
